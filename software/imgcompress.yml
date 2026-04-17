@@ -2,12 +2,6 @@ name: "ImgCompress"
 website_url: "https://imgcompress.karimzouine.com"
 source_code_url: "https://github.com/karimz1/imgcompress"
 description: "Image processing tool that runs entirely in Docker. Compress, convert, resize, batch-process images, and remove backgrounds using local AI without cloud dependencies."
-stargazers_count: 159
-updated_at: '2026-04-17'
-archived: false
-current_release:
-  tag: v0.6.0
-  published_at: '2026-01-23'
 licenses:
   - GPL-3.0
 platforms:
